@@ -1,0 +1,9 @@
+.DS_Store
+nbproject
+config/database.yml
+db/schema.rb
+tmp
+log
+lib/populate.rake
+coverage
+
