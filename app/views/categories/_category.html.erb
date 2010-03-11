@@ -1,5 +1,5 @@
  <li>
-  <%= link_to "#{category.name}", category_path(category)  %>
-  <%= link_to "Editar", edit_category_path(category) %>  
+  <%= link_to "#{category.name}", category_path(category)  %>|
+  <%= link_to "Editar", edit_category_path(category) %> |
   <%= link_to "Borrar", category_path(category), :method => 'delete', :confirm =>"Esta serguro?" %>
  </li>
