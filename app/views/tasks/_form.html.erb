@@ -1,0 +1,6 @@
+<p>Tasks</p>
+<%= error_messages_for :task %>
+<% form_for(@task) do |f| %>
+  <%= render :partial => 'field', :locals =>{:f =>f} %>
+  <%= f.submit "Guardar" %>
+<% end %>

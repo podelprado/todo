@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  body: MyText
+  finished: false
+  start_date: 2010-03-11 11:29:12
+  end_date: 2010-03-11 11:29:12
+  task: 
+
+two:
+  name: MyString
+  body: MyText
+  finished: false
+  start_date: 2010-03-11 11:29:12
+  end_date: 2010-03-11 11:29:12
+  task: 
